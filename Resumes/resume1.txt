@@ -1,0 +1,5 @@
+name: Emma
+education: Undergrad
+skills: Python,C
+domain: Networking
+experience: 4
